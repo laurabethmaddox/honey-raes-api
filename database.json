@@ -91,36 +91,12 @@
   ],
   "serviceTickets": [
     {
-      "id": 1,
-      "customerId": 4,
+      "description": "My Macbook isn't booting up",
+      "emergency": true,
+      "customerId": 11,
       "employeeId": 1,
-      "description": "iPhone case cracked. Please replace.",
-      "emergency": false,
-      "dateCompleted": "2021-05-26"
-    },
-    {
-      "customerId": 11,
-      "employeeId": 3,
-      "description": "Cannot connect to any wifi.",
-      "emergency": true,
       "dateCompleted": "",
-      "id": 2
-    },
-    {
-      "customerId": 11,
-      "employeeId": 4,
-      "description": "Computer cannot boot up. It's a Macbook",
-      "emergency": true,
-      "dateCompleted": "",
-      "id": 3
-    },
-    {
-      "customerId": 11,
-      "employeeId": 2,
-      "description": "My Macbook wont boot up.",
-      "emergency": true,
-      "dateCompleted": "",
-      "id": 4
+      "id": 1
     }
   ]
 }
